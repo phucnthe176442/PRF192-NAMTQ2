@@ -1,0 +1,13 @@
+Client's information decreasing by balance:
+
+   1.
+     ID card number  : 0000-6666-8888-7777
+     Client's name   : Nguyen Hoang Minh
+     Balance         :      666666.00 VND
+
+
+   2.
+     ID card number  : 0000-0068-9989-6789
+     Client's name   : Nguyen Tri Phuc
+     Balance         :        1000.00 VND
+
